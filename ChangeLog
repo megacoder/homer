@@ -1,0 +1,9 @@
+2005-01-03 11:00  reynolds
+
+	* Makefile, homer.zsh: Mangle ${HOME} into '${HOME}', if you get my
+	meaning!
+
+2005-01-03 11:00  reynolds
+
+	* Makefile, homer.zsh: Initial revision
+
